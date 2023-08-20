@@ -25,12 +25,19 @@ At the end, we seek to know if there is a correlation between age and price to w
 The dataset was derived from Kaggle and has 2223 entries, after processing from an initial 2247. It has the following variables/fields after processing:
 
 1.Name of whisky
+
 2.Category
+
 3.Score (points it scored from tasters)
+
 4.Price (buying price by tasters)
+
 5.Description (words tasters used to describe it)
+
 6.price_score_ratio (ratio of price to score)
+
 7.Age (the whisky's age in a barrel)
+
 8.Alcohol% 
 
 **Conclusions**

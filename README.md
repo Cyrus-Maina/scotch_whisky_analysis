@@ -45,8 +45,11 @@ The dataset was derived from Kaggle and has 2223 entries, after processing from 
 From the analysis, we advised the distiller that there is a positive correlation between a whisky's ageing period and it's end price, Blended Malt Scotch Whisky is the most loved whisky by customers and  it was the most affordable.
 With that mentioned, we found price and score had a weak positive correlation which means we can't strongly say people scored whiskies acoording to their prices only.
 Also, we found 'grain' whiskies were the most expensive at retail price, and we deducted a meaningful correlation that the long ageing periods did contribute to such prices.
-Blended Malt Scotch Whisky mainly stood out as it had a mean_price_score_ratio of 1.47 which suggests customers loved the quality and the prices.
+
+Blended Malt Scotch Whisky mainly stood out as it had a mean_price_score_ratio of 1.47 which suggests customers loved the quality and the prices, affordable good quality.
+
 In the end,we advised Rocky Distillers to start with Blended Malt Scotch Whisky as it had an affordable pricing to consumers and was the most loved.
+
 Neverthless, this category was likely to be in serious competition with other distillers, thus profit margins could also be low.
 
 
